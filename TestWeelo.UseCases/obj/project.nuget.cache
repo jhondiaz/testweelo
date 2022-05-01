@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "C1wyyEHtNRHKxXiFfdLTanEIkM967LTlaI+mRvjiCIzRGTe9Aq5g4rUhefi5Nx6E30jx3J3HE7zfpDDir9bmEg==",
+  "success": true,
+  "projectFilePath": "D:\\Test Weelo\\TestWeelo\\TestWeelo\\TestWeelo.UseCases\\TestWeelo.UseCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\syste\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\syste\\.nuget\\packages\\fluentvalidation\\11.0.0\\fluentvalidation.11.0.0.nupkg.sha512",
+    "C:\\Users\\syste\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\syste\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

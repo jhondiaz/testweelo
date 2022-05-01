@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dGwaGoXnAvqaabwOtyluCxP/ycmYr4ks4jdsUjtqmlfxGdvD59D64K228rH7Xk0LKkYIfE+k0dcBrQ4GP/rDRQ==",
+  "success": true,
+  "projectFilePath": "D:\\Test Weelo\\TestWeelo\\TestWeelo\\TestWeelo.Presenters\\TestWeelo.Presenters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\syste\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

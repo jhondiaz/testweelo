@@ -1,0 +1,15 @@
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.UseCasesPorts\bin\Debug\net5.0\TestWeelo.UseCasesPorts.deps.json
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.UseCasesPorts\bin\Debug\net5.0\TestWeelo.UseCasesPorts.dll
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.UseCasesPorts\bin\Debug\net5.0\ref\TestWeelo.UseCasesPorts.dll
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.UseCasesPorts\bin\Debug\net5.0\TestWeelo.UseCasesPorts.pdb
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.UseCasesPorts\bin\Debug\net5.0\TestWeelo.DTOs.dll
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.UseCasesPorts\bin\Debug\net5.0\TestWeelo.DTOs.pdb
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.UseCasesPorts\obj\Debug\net5.0\TestWeelo.UseCasesPorts.csproj.AssemblyReference.cache
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.UseCasesPorts\obj\Debug\net5.0\TestWeelo.UseCasesPorts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.UseCasesPorts\obj\Debug\net5.0\TestWeelo.UseCasesPorts.AssemblyInfoInputs.cache
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.UseCasesPorts\obj\Debug\net5.0\TestWeelo.UseCasesPorts.AssemblyInfo.cs
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.UseCasesPorts\obj\Debug\net5.0\TestWeelo.UseCasesPorts.csproj.CoreCompileInputs.cache
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.UseCasesPorts\obj\Debug\net5.0\TestWeelo.UseCasesPorts.csproj.CopyComplete
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.UseCasesPorts\obj\Debug\net5.0\TestWeelo.UseCasesPorts.dll
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.UseCasesPorts\obj\Debug\net5.0\ref\TestWeelo.UseCasesPorts.dll
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.UseCasesPorts\obj\Debug\net5.0\TestWeelo.UseCasesPorts.pdb

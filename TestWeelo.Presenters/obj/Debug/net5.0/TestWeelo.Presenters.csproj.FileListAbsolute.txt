@@ -1,0 +1,17 @@
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.Presenters\bin\Debug\net5.0\TestWeelo.Presenters.deps.json
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.Presenters\bin\Debug\net5.0\TestWeelo.Presenters.dll
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.Presenters\bin\Debug\net5.0\ref\TestWeelo.Presenters.dll
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.Presenters\bin\Debug\net5.0\TestWeelo.Presenters.pdb
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.Presenters\bin\Debug\net5.0\TestWeelo.DTOs.dll
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.Presenters\bin\Debug\net5.0\TestWeelo.UseCasesPorts.dll
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.Presenters\bin\Debug\net5.0\TestWeelo.UseCasesPorts.pdb
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.Presenters\bin\Debug\net5.0\TestWeelo.DTOs.pdb
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.Presenters\obj\Debug\net5.0\TestWeelo.Presenters.csproj.AssemblyReference.cache
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.Presenters\obj\Debug\net5.0\TestWeelo.Presenters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.Presenters\obj\Debug\net5.0\TestWeelo.Presenters.AssemblyInfoInputs.cache
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.Presenters\obj\Debug\net5.0\TestWeelo.Presenters.AssemblyInfo.cs
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.Presenters\obj\Debug\net5.0\TestWeelo.Presenters.csproj.CoreCompileInputs.cache
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.Presenters\obj\Debug\net5.0\TestWeelo.Presenters.csproj.CopyComplete
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.Presenters\obj\Debug\net5.0\TestWeelo.Presenters.dll
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.Presenters\obj\Debug\net5.0\ref\TestWeelo.Presenters.dll
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.Presenters\obj\Debug\net5.0\TestWeelo.Presenters.pdb

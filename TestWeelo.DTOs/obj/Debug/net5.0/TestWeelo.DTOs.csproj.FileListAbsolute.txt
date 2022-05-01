@@ -1,0 +1,11 @@
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.DTOs\bin\Debug\net5.0\TestWeelo.DTOs.deps.json
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.DTOs\bin\Debug\net5.0\TestWeelo.DTOs.dll
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.DTOs\bin\Debug\net5.0\ref\TestWeelo.DTOs.dll
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.DTOs\bin\Debug\net5.0\TestWeelo.DTOs.pdb
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.DTOs\obj\Debug\net5.0\TestWeelo.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.DTOs\obj\Debug\net5.0\TestWeelo.DTOs.AssemblyInfoInputs.cache
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.DTOs\obj\Debug\net5.0\TestWeelo.DTOs.AssemblyInfo.cs
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.DTOs\obj\Debug\net5.0\TestWeelo.DTOs.csproj.CoreCompileInputs.cache
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.DTOs\obj\Debug\net5.0\TestWeelo.DTOs.dll
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.DTOs\obj\Debug\net5.0\ref\TestWeelo.DTOs.dll
+D:\Test Weelo\TestWeelo\TestWeelo\TestWeelo.DTOs\obj\Debug\net5.0\TestWeelo.DTOs.pdb
